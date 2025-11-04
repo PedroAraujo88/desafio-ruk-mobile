@@ -1,0 +1,12 @@
+# node_modules (Obrigatório)
+node_modules
+
+# Expo / Cache
+.expo/
+.npm
+web-build
+*.log
+
+# Android / iOS build
+/android/
+/ios/
